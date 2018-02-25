@@ -1,0 +1,6 @@
+name: container
+description: Common Container Interface (PHP FIG PSR-11)
+version: 1.0.0
+antigen: Psr\Container
+php: [^5.3]
+authors: [PHP-FIG, JackNoordhuis]
